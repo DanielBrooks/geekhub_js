@@ -163,3 +163,19 @@ JSONP
 CORS
 
 forIn
+
+
+
+
+
+Lesson 7
+
+use textContent when you need innerText (last one is not crossbrowser)
+
+require js
+-amd standart
+
+mustache
+hogan
+
+
